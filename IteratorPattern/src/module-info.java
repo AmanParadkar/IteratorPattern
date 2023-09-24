@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author amanp
+ *
+ */
+module IteratorPattern {
+}
